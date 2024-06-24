@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-color: antiquewhite;
+}
+
+.container-login{
+  background-image: url('/bg-login.svg');
+  background-size: cover;
+  background-position: center;
+}
